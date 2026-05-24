@@ -3,7 +3,7 @@
 
 ---
 
-![Neighborhood Map](outputs/Screenshot%2843%29.png)
+![Neighborhood Map](outputs/map_screenshot.png)
 
 ## The Problem
 
