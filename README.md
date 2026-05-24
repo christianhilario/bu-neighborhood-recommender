@@ -3,6 +3,8 @@
 
 ---
 
+![Neighborhood Map](outputs/map_screenshot.png)
+
 ## The Problem
 
 Finding off-campus housing as a BU student is overwhelming. Apartments.com and Zillow show you hundreds of listings but give you no real guidance on where to actually live — they just show you what's available.
